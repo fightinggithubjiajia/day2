@@ -6,7 +6,7 @@ package test;
 public class Test {
 int i=9;
 int a=8;
-int m=0;
+
   public void (){
 
 
