@@ -5,8 +5,9 @@ package test;
  */
 public class Test {
 int i=9;
-
+int a=8;
   public void (){
+
 
     }
     public static void main(String[] args) {
